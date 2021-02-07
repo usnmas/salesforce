@@ -16,6 +16,7 @@
 - [Developer Experience (**DX**)](https://developer.salesforce.com/developer-centers/developer-experience/)  
 - [Lightning Web Component Reference](https://developer.salesforce.com/docs/component-library/overview/components)  
 - [Triggers and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)  
+- [Using Certificates to use two-way SSL authentication](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm)
 
 
 
