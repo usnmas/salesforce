@@ -3,6 +3,7 @@
 ## Salesforce.Com  
 
 - [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
+- [Loyalty Management Partner Pocket Guide](https://salesforce.quip.com/0YbGAyhiaUUO)  
 
 ## Help.Salesforce.Com  
 
