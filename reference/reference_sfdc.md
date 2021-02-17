@@ -1,5 +1,9 @@
 # Reference Site for Salesforce.Com    
 
+## Salesforce.Com  
+
+- [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
+
 ## Help.Salesforce.Com  
 
 - [**Sandbox**](https://help.salesforce.com/articleView?id=create_test_instance.htm&type=5)  
