@@ -5,6 +5,7 @@
 - [**Sandbox**](https://help.salesforce.com/articleView?id=create_test_instance.htm&type=5)  
 - [What’s Different or **Not Available** in the Salesforce **Mobile** App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)
 - [Activities: Tasks, Events, and Calendars](https://help.salesforce.com/articleView?id=activities.htm&type=0)  
+- [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5)  
 
 ## Trailhead
 
