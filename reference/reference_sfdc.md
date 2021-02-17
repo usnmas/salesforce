@@ -10,6 +10,7 @@
 
 - [Find the Username and Password for Your Trailhead Playground](https://trailhead.salesforce.com/help?article=Find-the-username-and-password-for-your-Trailhead-Playground)  
 - [Lightning Web Component Sample Apps](https://trailhead.salesforce.com/sample-gallery)  
+- [Salesforce Certification Days](https://trailhead.salesforce.com/credentials/cert-days)  
 
 ## Developer Documentation  
 
