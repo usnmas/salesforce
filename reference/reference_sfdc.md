@@ -34,4 +34,5 @@
 - [Using Certificates to use two-way SSL authentication](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm)
 - [Architectural Considerations for Group and Professional Editions](https://developer.salesforce.com/docs/atlas.en-us.216.0.packagingGuide.meta/packagingGuide/dev_packages_for_pe_ge.htm) : GE / PE / EE / UE / PXE (tiered offering)  
 - [Intro to Marketing Cloud APIs](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm) : REST vs SOAP  
+- [Metadata Coverage](https://developer.salesforce.com/docs/metadata-coverage/51) : For change-tracking, refer to this report  
 
