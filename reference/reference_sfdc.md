@@ -18,6 +18,7 @@
 - [Guidelines for Setting Business Hours](https://help.salesforce.com/articleView?err=1&id=sf.customize_supporthours_guidelines.htm&type=5) 
 - [Which Automation Tool to use](https://help.salesforce.com/articleView?id=sf.process_which_tool.htm&type=5)    
 - [Hello Experience Cloud, Farewell Community Cloud](https://help.salesforce.com/articleView?id=release-notes.rn_experiences_rebrand.htm&type=5&release=230) : "site" instead of "community"  
+- [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)
 
 ## Trailhead
 
