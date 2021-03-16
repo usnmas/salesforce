@@ -18,12 +18,13 @@
 
 ### Objects (Fields) / Limitation
 
-- [Activities: Tasks, Events, and Calendars](https://help.salesforce.com/articleView?id=activities.htm&type=0)  
 - [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5) 
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
+- [Tips for Working with Date and Date/Time Formula Fields](https://help.salesforce.com/articleView?id=sf.tips_for_using_date_datetime_formula_fields.htm&type=5) : Date vs date/time  
 
 ### Configuration
 
+- [Activities: Tasks, Events, and Calendars](https://help.salesforce.com/articleView?id=activities.htm&type=0)  
 - [Guidelines for Setting Business Hours](https://help.salesforce.com/articleView?err=1&id=sf.customize_supporthours_guidelines.htm&type=5) 
 - [Which Automation Tool to use](https://help.salesforce.com/articleView?id=sf.process_which_tool.htm&type=5) : Process builder / Flow builder / Workflow / Approvals    
 - [Monitor Setup Changes with Setup Audit Trail](https://help.salesforce.com/articleView?id=sf.admin_monitorsetup.htm&type=5)
