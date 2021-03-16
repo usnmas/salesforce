@@ -20,6 +20,7 @@
 - [Hello Experience Cloud, Farewell Community Cloud](https://help.salesforce.com/articleView?id=release-notes.rn_experiences_rebrand.htm&type=5&release=230) : "site" instead of "community"  
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
 - [Monitor Setup Changes with Setup Audit Trail](https://help.salesforce.com/articleView?id=sf.admin_monitorsetup.htm&type=5)
+- [Organization-Wide Default Access Settings](https://help.salesforce.com/articleView?id=sf.sharing_model_fields.htm&type=5)  
 
 ## Trailhead
 
