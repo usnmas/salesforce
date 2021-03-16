@@ -20,7 +20,7 @@
 
 - [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5) 
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
-- [Tips for Working with Date and Date/Time Formula Fields](https://help.salesforce.com/articleView?id=sf.tips_for_using_date_datetime_formula_fields.htm&type=5) : Date vs date/time  
+- [Tips for Working with Date and Date/Time Formula Fields](https://help.salesforce.com/articleView?id=sf.tips_for_using_date_datetime_formula_fields.htm&type=5) : date vs date/time - DATEVALUE()  
 
 ### Configuration
 
