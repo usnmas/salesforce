@@ -1,9 +1,11 @@
 # Reference Site for Salesforce.Com    
+
 ---
 ## Salesforce.Com  
 
 - [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
 - [Loyalty Management Partner Pocket Guide](https://salesforce.quip.com/0YbGAyhiaUUO)  
+
 ---
 ## Help.Salesforce.Com  
 
@@ -35,6 +37,7 @@
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)
 
+---
 ## Trailhead
 
 - [Find the Username and Password for Your Trailhead Playground](https://trailhead.salesforce.com/help?article=Find-the-username-and-password-for-your-Trailhead-Playground)  
@@ -42,6 +45,7 @@
 - [Lightning Web Component Sample Apps](https://trailhead.salesforce.com/sample-gallery)  
 - [Salesforce Certification Days](https://trailhead.salesforce.com/credentials/cert-days) : Certification preparation program (webinar)   
 
+---
 ## Developer Documentation  
 
 - [Developer Experience (**DX**)](https://developer.salesforce.com/developer-centers/developer-experience/)  
