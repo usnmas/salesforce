@@ -21,6 +21,7 @@
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
 - [Monitor Setup Changes with Setup Audit Trail](https://help.salesforce.com/articleView?id=sf.admin_monitorsetup.htm&type=5)
 - [Organization-Wide Default Access Settings](https://help.salesforce.com/articleView?id=sf.sharing_model_fields.htm&type=5)  
+- [Set Your Internal Organization-Wide Sharing Defaults](https://help.salesforce.com/articleView?id=sf.admin_sharing.htm&type=5) : Some objects for which OWD can't be changed  
 
 ## Trailhead
 
