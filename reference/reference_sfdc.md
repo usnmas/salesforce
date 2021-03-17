@@ -33,7 +33,8 @@
 - [Which Automation Tool to use](https://help.salesforce.com/articleView?id=sf.process_which_tool.htm&type=5) : Process builder / Flow builder / Workflow / Approvals    
 - [Monitor Setup Changes with Setup Audit Trail](https://help.salesforce.com/articleView?id=sf.admin_monitorsetup.htm&type=5)
 - [Organization-Wide Default Access Settings](https://help.salesforce.com/articleView?id=sf.sharing_model_fields.htm&type=5)  
-- [Set Your Internal Organization-Wide Sharing Defaults](https://help.salesforce.com/articleView?id=sf.admin_sharing.htm&type=5) : Some objects for which OWD can't be changed  
+- [Set Your Internal Organization-Wide Sharing Defaults](https://help.salesforce.com/articleView?id=sf.admin_sharing.htm&type=5) : Some objects for which OWD can't be changed 
+- [Sharing Rules](https://help.salesforce.com/articleView?id=sf.security_about_sharing_rules.htm&type=5) : 300 total sharing rules for each object, including up to 50 criteria-based or guest user sharing rules    
 
 ### Mobile
 
