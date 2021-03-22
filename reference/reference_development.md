@@ -1,4 +1,4 @@
-# Reference Site for Salesforce.com Development    
+# Reference Site for Salesforce Development    
 
 ## Implementation 
 
