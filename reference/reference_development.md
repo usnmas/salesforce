@@ -8,6 +8,9 @@
 - [Developer Experience (**DX**)](https://developer.salesforce.com/developer-centers/developer-experience/)  
 - [Lightning Web Component Reference](https://developer.salesforce.com/docs/component-library/overview/components) 
 - [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.230.0.apexcode.meta/apexcode/apex_dev_guide.htm) 
+- [Developer Console](https://help.salesforce.com/articleView?id=sf.code_system_log.htm&type=5#code_system_log)
+- [Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)
+- [Code Editor in the Salesforce User Interface](https://help.salesforce.com/articleView?id=sf.code_define_package.htm&type=5#code_define_package)  
 
 ### Others  
 
