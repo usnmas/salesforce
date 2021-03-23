@@ -3,9 +3,14 @@
 ---
 ## Developer Documentation  
 
+### Introduction   
+
 - [Developer Experience (**DX**)](https://developer.salesforce.com/developer-centers/developer-experience/)  
 - [Lightning Web Component Reference](https://developer.salesforce.com/docs/component-library/overview/components) 
 - [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.230.0.apexcode.meta/apexcode/apex_dev_guide.htm) 
+
+### Others  
+
 - [Triggers and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)  
 - [Using Certificates to use two-way SSL authentication](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm)
 - [Architectural Considerations for Group and Professional Editions](https://developer.salesforce.com/docs/atlas.en-us.216.0.packagingGuide.meta/packagingGuide/dev_packages_for_pe_ge.htm) : GE / PE / EE / UE / PXE (tiered offering)  
