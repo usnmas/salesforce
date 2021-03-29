@@ -29,5 +29,6 @@
 ## Interface  
 
 - [REST VS SOAP: When Is REST Better?](https://stormpath.com/blog/rest-vs-soap)  
+- [전자금융감독규정 - 망분리](https://blog.pages.kr/2485)  
 
 
