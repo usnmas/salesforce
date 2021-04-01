@@ -23,6 +23,7 @@
 
 - [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5) 
 - [Communities User Licenses](https://help.salesforce.com/articleView?id=sf.users_license_types_communities.htm&type=5)  
+- [Tableau Pricing](https://www.tableau.com/pricing/teams-orgs#server)
 
 ### Objects (Fields) / Limitation
 
