@@ -19,10 +19,13 @@
 - [Hello Experience Cloud, Farewell Community Cloud](https://help.salesforce.com/articleView?id=release-notes.rn_experiences_rebrand.htm&type=5&release=230) : "site" instead of "community"  
 - [Salesforce for Outlook Retirement](https://help.salesforce.com/articleView?id=000353024&type=1&mode=1) : June 2023 / Side panel action stops in June 2021  
 
-### Objects (Fields) / Limitation
+### License
 
 - [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5) 
 - [Communities User Licenses](https://help.salesforce.com/articleView?id=sf.users_license_types_communities.htm&type=5)  
+
+### Objects (Fields) / Limitation
+
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
 - [Tips for Working with Date and Date/Time Formula Fields](https://help.salesforce.com/articleView?id=sf.tips_for_using_date_datetime_formula_fields.htm&type=5) : date vs date/time - DATEVALUE()  
 - [Use images in 'formula' fields](https://help.salesforce.com/articleView?id=000327122&type=1&mode=1) : [Example](https://trailblazers.salesforce.com/answers?id=9063A000000pR0ZQAU)  
