@@ -27,6 +27,7 @@
 ---
 ## Interface  
 
+- [Streaming API](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/intro_stream.htm) : Events using push and receive in near real-time  
 - [Intro to Marketing Cloud APIs](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm) : REST vs SOAP  
 - [REST VS SOAP: When Is REST Better?](https://stormpath.com/blog/rest-vs-soap)  
 - [Getting started with Salesforce integration patterns using MuleSoft](https://developer.mulesoft.com/tutorials-and-howtos/quick-start/getting-started-with-salesforce-integration-patterns-using-mulesoft/?utm_source=email&utm_medium=referral&utm_campaign=anypoint-onboarding-nurture&mkt_tok=NTY0LVNaUy0xMzYAAAF8HgHgm8BDPosP49-vPl-Gk8G60ZwYtrQQIC-cWqkbu2TdYNQnX_YoMu2KUD3S6H5Jm9C8XfiF7M5MKCmL6_BuwXxyHvqgSYGFHd7dxwDcSwuev4U) : Migration / Broadcast / Aggregation / Bidirectional synchronization / Correlation - Hands-on examples  
