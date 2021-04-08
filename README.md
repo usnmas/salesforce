@@ -8,7 +8,7 @@
 ## Trend (New Release) & AppExchange    
    
 - [myV2MOM](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000F7sbnUAB) : Leader's Vision & Sales Goal Alignment and Transparency (free)  
-    
+- [CamCard](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000B5ZL0EAN) : OCR software / Scan Business Card (USD 95.88/u/y)     
     
 
 ## Article (Definition)
