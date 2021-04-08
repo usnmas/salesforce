@@ -5,8 +5,9 @@
    
    
   
-## Trend (New Release)  
+## Trend (New Release) & AppExchange    
    
+- [myV2MOM](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000F7sbnUAB) : Leader's Vision & Sales Goal Alignment and Transparency (free)  
     
     
 
