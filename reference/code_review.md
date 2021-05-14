@@ -11,6 +11,8 @@
 
 - Code가 Design Principal을 따르고 있는지 검토
   - ex) 각 지역단위로 다르게 적용되는 코드의 경우 코드가 Module로 되어 있는가 또는 Configuration을 지원하는가
+    - aaa 
+    - aaa
   - ex) Code가 Naming Convention을 따르는가  
 - 각각  
 - 
