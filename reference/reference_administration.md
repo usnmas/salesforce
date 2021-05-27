@@ -45,6 +45,11 @@
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)
 
+### Call Center
+
+- [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
+- [Salesforce Call Center](https://help.salesforce.com/articleView?id=sf.cti_overview.htm&type=5)  
+
 ---
 ## Trailhead
 
