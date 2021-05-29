@@ -41,9 +41,9 @@
 - [Tableau Server on Windows - Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)
 - [Tableau Server on Windows - Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
-- [Tableau Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
-- [Tableau Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
-- [Tableau Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
+- [Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
+- [Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
+- [Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
 
 
 
