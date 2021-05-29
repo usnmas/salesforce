@@ -43,6 +43,7 @@
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
 - [Tableau Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
 - [Tableau Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
+- [Tableau Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
 
 
 
