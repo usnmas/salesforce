@@ -42,7 +42,9 @@
 - [Tableau Server on Windows - Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
 - [Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
-- [Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
+- [Extracts-1 : Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
+- [Extracts-2 : Why use Data Extracts](https://www.tableau.com/about/blog/2014/7/why-use-tableau-data-extracts-32187)   
+- [Extracts-3 : Tips, Tricks and Best Practices](https://www.tableau.com/tableau-data-extracts-part3)  
 - [Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
 
 
