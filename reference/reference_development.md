@@ -38,13 +38,14 @@
 ## Tableau  
 
 - [Tableau Help](https://www.tableau.com/support/help)  
-- [Tableau Server on Windows - Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)
-- [Tableau Server on Windows - Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
+- [Tableau Server on Windows: Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)
+- [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
+- [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
 - [Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
-- [Extracts-1 : Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
-- [Extracts-2 : Why use Data Extracts](https://www.tableau.com/about/blog/2014/7/why-use-tableau-data-extracts-32187)   
-- [Extracts-3 : Tips, Tricks and Best Practices](https://www.tableau.com/tableau-data-extracts-part3)  
+- [Extracts-1: Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
+- [Extracts-2: Why use Data Extracts](https://www.tableau.com/about/blog/2014/7/why-use-tableau-data-extracts-32187)   
+- [Extracts-3: Tips, Tricks and Best Practices](https://www.tableau.com/tableau-data-extracts-part3)  
 - [Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
 
 
