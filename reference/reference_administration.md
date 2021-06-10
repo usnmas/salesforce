@@ -24,6 +24,9 @@
 - [User Licenses](https://help.salesforce.com/articleView?id=sf.users_understanding_license_types.htm&type=5) 
 - [Communities User Licenses](https://help.salesforce.com/articleView?id=sf.users_license_types_communities.htm&type=5)  
 - [Tableau Pricing](https://www.tableau.com/pricing/teams-orgs#server)
+- [Service Cloud Pricing](https://www.salesforce.com/ap/editions-pricing/service-cloud/)  
+- [Field Service Lightning Pricing](https://www.salesforce.com/ap/editions-pricing/service-cloud/field-service/?d=cta-body-promo-99)  
+- [Service Cloud Voice with Amazon Connect](https://www.salesforce.com/ap/editions-pricing/service-cloud/voice/?d=cta-body-promo-339)  
 
 ### Objects (Fields) / Limitation
 
