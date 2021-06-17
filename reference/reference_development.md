@@ -11,6 +11,7 @@
 - [Developer Console](https://help.salesforce.com/articleView?id=sf.code_system_log.htm&type=5#code_system_log)
 - [Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)
 - [Code Editor in the Salesforce User Interface](https://help.salesforce.com/articleView?id=sf.code_define_package.htm&type=5#code_define_package)  
+- [Mobile Publisher](https://dreamevent.secure.force.com/articleView?id=sf.s1_branded_apps.htm&type=5)  
 
 ### Others  
 
