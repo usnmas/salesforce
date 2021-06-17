@@ -55,6 +55,13 @@
 - Field with over 4096 Characters & Calculated Field 는 extract 에 include 안 됨
 - Extract 는 columnar database store 이므로 column 이 많아지면 성능 저하  
 
+### Salesforce Integration  
+
+- [Configure SAML with Salesforce](https://help.tableau.com/current/online/en-us/saml_config_salesforce.htm)  
+- [Introducing a new way to bring Tableau analytics into Salesforce](https://www.tableau.com/about/blog/2020/9/introducing-tableau-viz-lightning-web-component-salesforce)  
+- [Embed Tableau Dashboard in Salesforce Records Using an iframe](https://aaronwinters.com/embed-tableau-dashboard-in-salesforce-records-using-visualforce/)  
+- [Configure SSO from Salesforce to Tableau Online](https://help.salesforce.com/articleView?id=identity_provider_examples_tableau_online.htm&type=0)  
+- [How to configure Tableau SAML SSO with Salesforce Identity](https://alexeskinasy.medium.com/how-to-configure-tableau-online-saml-sso-with-salesforce-identity-53bdf0f9b3f2)  
 
 
 
