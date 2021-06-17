@@ -42,6 +42,7 @@
 - [Tableau Server on Windows: Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)
 - [Tableau Server: Communicating with the Internet](https://help.tableau.com/current/server/en-us/plan_network.htm)  
 - [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
+- [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
 - [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
 - [Supported Connectors - Salesforce](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm)  
