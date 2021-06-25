@@ -30,6 +30,8 @@
 
 ### Objects (Fields) / Limitation
 
+- [Salesforce Features and Edition Allocations](https://help.salesforce.com/articleView?id=overview_limits_general.htm&type=0)   
+- [Data and File Storage Allocations](https://help.salesforce.com/articleView?id=sf.overview_storage.htm&type=5)  
 - [Picklist Limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)  
 - [Tips for Working with Date and Date/Time Formula Fields](https://help.salesforce.com/articleView?id=sf.tips_for_using_date_datetime_formula_fields.htm&type=5) : date vs date/time - DATEVALUE()  
 - [Use images in 'formula' fields](https://help.salesforce.com/articleView?id=000327122&type=1&mode=1) : [Example](https://trailblazers.salesforce.com/answers?id=9063A000000pR0ZQAU)  
@@ -53,6 +55,10 @@
 
 - [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
 - [Salesforce Call Center](https://help.salesforce.com/articleView?id=sf.cti_overview.htm&type=5)  
+
+### Compliance / Security / Certification  
+
+- [Compliance engineered for the Cloud](https://compliance.salesforce.com/en/documents)  
 
 ---
 ## Trailhead
