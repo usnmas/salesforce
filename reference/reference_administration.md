@@ -28,7 +28,7 @@
 - [Field Service Lightning Pricing](https://www.salesforce.com/ap/editions-pricing/service-cloud/field-service/?d=cta-body-promo-99)  
 - [Service Cloud Voice with Amazon Connect](https://www.salesforce.com/ap/editions-pricing/service-cloud/voice/?d=cta-body-promo-339)  
 
-### Objects (Fields) / Limitation
+### Limitation
 
 - [Salesforce Features and Edition Allocations](https://help.salesforce.com/articleView?id=overview_limits_general.htm&type=0)   
 - [Data and File Storage Allocations](https://help.salesforce.com/articleView?id=sf.overview_storage.htm&type=5)  
