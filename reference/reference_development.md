@@ -62,7 +62,9 @@
 - [Embed Tableau Dashboard in Salesforce Records Using an iframe](https://aaronwinters.com/embed-tableau-dashboard-in-salesforce-records-using-visualforce/)  
 - [Configure SSO from Salesforce to Tableau Online](https://help.salesforce.com/articleView?id=identity_provider_examples_tableau_online.htm&type=0)  
 - [How to configure Tableau SAML SSO with Salesforce Identity](https://alexeskinasy.medium.com/how-to-configure-tableau-online-saml-sso-with-salesforce-identity-53bdf0f9b3f2)  
+---
+### Heroku  
 
-
+- [add Heroku dynos to IP allowlist ](https://help.heroku.com/JS13Y78I/i-need-to-add-heroku-dynos-to-our-allowlist-what-are-ip-address-ranges-in-use-at-heroku)  
 
 
