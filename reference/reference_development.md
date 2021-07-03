@@ -54,6 +54,7 @@
 - [Cross-database join limitations with Salesforce (multi-connection data source)](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm) : Live connection / Extract Filters / Incremental updates to the extract / Viewing the data in the data grid 가 지원 안 됨
 - Field with over 4096 Characters & Calculated Field 는 extract 에 include 안 됨
 - Extract 는 columnar database store 이므로 column 이 많아지면 성능 저하  
+- [Tableau's Order of Operations](https://help.tableau.com/current/pro/desktop/en-us/order_of_operations.htm)  
 
 ### Salesforce Integration  
 
