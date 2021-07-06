@@ -61,6 +61,9 @@
 ### Compliance / Security / Certification  
 
 - [Compliance engineered for the Cloud](https://compliance.salesforce.com/en/documents)  
+- [How Shield Platform Encryption Works](https://help.salesforce.com/articleView?id=sf.security_pe_concepts.htm&type=5)  
+- [Encrypt Fields on Custom Objects and Custom Fields](https://help.salesforce.com/articleView?id=sf.security_pe_enable_custom_fields.htm&type=5)  
+- [Threat Detection](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/real_time_em_threat_detection.htm)  
 
 ---
 ## Trailhead
