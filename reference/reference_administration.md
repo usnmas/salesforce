@@ -66,6 +66,7 @@
 - [Threat Detection](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/real_time_em_threat_detection.htm)  
 - [Mobile Application Management (MAM) with Enhanced Mobile App Security](https://help.salesforce.com/articleView?id=sf.mobile_security_mam_overview.htm&type=5)  
 - [Introducing Enhanced Mobile Security And Compliance For Regulated Industries](https://www.salesforce.com/video/7826679/)  
+- [Mobile Application Security](https://help.salesforce.com/articleView?id=sf.mobile_security.htm&type=5)  
 
 ---
 ## Trailhead
