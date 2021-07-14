@@ -12,6 +12,7 @@
 - [Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)
 - [Code Editor in the Salesforce User Interface](https://help.salesforce.com/articleView?id=sf.code_define_package.htm&type=5#code_define_package)  
 - [Mobile Publisher](https://dreamevent.secure.force.com/articleView?id=sf.s1_branded_apps.htm&type=5)  
+- [Object Reference for Salesforce and Lightning Platform](https://developer.salesforce.com/docs/atlas.en-us.224.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)  
 
 ### Others  
 
