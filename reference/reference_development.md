@@ -67,6 +67,10 @@
 - [Dashboard Starters for Cloud-based Data](https://help.tableau.com/current/pro/desktop/en-us/starters.htm)  
 - [Download a Starter Dashboard](https://www.tableau.com/products/dashboard-starters-downloads)  
   
+### Build Charts and Analyze Data  
+
+- [Start Building a Visualization by Dragging Fields to the View](https://help.tableau.com/current/pro/desktop/en-us/buildmanual_dragging.htm)  
+
 ---
 ### Heroku  
 
