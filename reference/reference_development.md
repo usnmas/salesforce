@@ -40,26 +40,26 @@
 ## Tableau  
 
 - [Tableau Help](https://www.tableau.com/support/help)  
-- [Tableau Server on Windows: Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)
 - [Tableau Server: Communicating with the Internet](https://help.tableau.com/current/server/en-us/plan_network.htm)  
 - [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
 - [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
 - [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
-- [Supported Connectors - Salesforce](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm)  
 - [Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
 - [Extracts-1: Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
 - [Extracts-2: Why use Data Extracts](https://www.tableau.com/about/blog/2014/7/why-use-tableau-data-extracts-32187)   
 - [Extracts-3: Tips, Tricks and Best Practices](https://www.tableau.com/tableau-data-extracts-part3)  
 - [Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
-- [Cross-database join limitations with Salesforce (multi-connection data source)](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm)
-  - Live connection / Extract Filters / Incremental updates to the extract / Viewing the data in the data grid 가 지원 안 됨
-  - Field with over 4096 Characters & Calculated Field 는 extract 에 include 안 됨
-  - Extract 는 columnar database store 이므로 column 이 많아지면 성능 저하  
 - [Tableau's Order of Operations](https://help.tableau.com/current/pro/desktop/en-us/order_of_operations.htm)  
 
 ### Salesforce Integration  
 
+- [Tableau Server on Windows: Server Admin Cheatsheet: Salesforce Integration](https://help.tableau.com/current/server/en-us/tableau_admin_salesforce_integration.htm)  
+- [Supported Connectors - Salesforce](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm)  
+- [Cross-database join limitations with Salesforce (multi-connection data source)](https://help.tableau.com/current/pro/desktop/en-us/examples_salesforce.htm)
+  - Live connection / Extract Filters / Incremental updates to the extract / Viewing the data in the data grid 가 지원 안 됨
+  - Field with over 4096 Characters & Calculated Field 는 extract 에 include 안 됨
+  - Extract 는 columnar database store 이므로 column 이 많아지면 성능 저하  
 - [Configure SAML with Salesforce](https://help.tableau.com/current/online/en-us/saml_config_salesforce.htm)  
 - [Introducing a new way to bring Tableau analytics into Salesforce](https://www.tableau.com/about/blog/2020/9/introducing-tableau-viz-lightning-web-component-salesforce)  
 - [Embed Tableau Dashboard in Salesforce Records Using an iframe](https://aaronwinters.com/embed-tableau-dashboard-in-salesforce-records-using-visualforce/)  
