@@ -75,6 +75,11 @@
 - [How To Apply Multiple Filters To The Same Dimension Simultaneously](https://kb.tableau.com/articles/howto/How-To-Apply-Multiple-Filters-To-The-Same-Dimension-Simultaneously) 
 - [Create an OR Condition Between Two Filters](https://kb.tableau.com/articles/HowTo/Create-an-OR-Condition-Between-Two-Filters)  
 - [How To Filter Data In AND Logic When Selecting Multiple Dimension Members](https://kb.tableau.com/articles/HowTo/How-To-Filter-Data-In-AND-Logic-When-Selecting-Multiple-Dimension-Members)  
+  - Multiple Filter 를 Worksheet 에 사용하게 되면 Default 는 AND 조건으로 연결이 됩니다.
+  - 1개의 Dimension 에서 2개 이상의 Filter 를 걸고자 한다면, 그 Dimension 을 Duplicate 해서, 원래 Dimension 에 Filter1 을 걸고, Duplicate 된 "Dimension (Copy)" 에 Filter2 를 걸면 적용이 됩니다.
+  - Multiple Filter 를 Worksheet 에 적용할 때 OR 조건으로 해야 한다면, 조건을 설정하는 Parameter 를 각각 생성하고, 그 Parameter 들을 OR 로 합치는 Calculated Field 를 생성하여 이 Calculation 을 Filter 에 True 로 넣으면, Parameter 선택에 따른 조건을 OR 조건으로 사용할 수 있습니다.
+  - Tableau 에서 "Long Text Area" field type 은 Extract 시 4096 character limit 이 있습니다. 그래서 Tableau 에서 나오지 않습니다.
+  - Tableau Custom SQL : select Name, Id from Account where Id in (Select SalesPartner__c from Opportunity) 
 
 ---
 ### Heroku  
