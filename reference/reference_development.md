@@ -70,6 +70,9 @@
 ### Build Charts and Analyze Data  
 
 - [Start Building a Visualization by Dragging Fields to the View](https://help.tableau.com/current/pro/desktop/en-us/buildmanual_dragging.htm)  
+- [How To Apply Multiple Filters To The Same Dimension Simultaneously](https://kb.tableau.com/articles/howto/How-To-Apply-Multiple-Filters-To-The-Same-Dimension-Simultaneously) 
+- [Create an OR Condition Between Two Filters](https://kb.tableau.com/articles/HowTo/Create-an-OR-Condition-Between-Two-Filters)  
+- [How To Filter Data In AND Logic When Selecting Multiple Dimension Members](https://kb.tableau.com/articles/HowTo/How-To-Filter-Data-In-AND-Logic-When-Selecting-Multiple-Dimension-Members)  
 
 ---
 ### Heroku  
