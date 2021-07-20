@@ -77,4 +77,12 @@
 - [Lightning Web Component Sample Apps](https://trailhead.salesforce.com/sample-gallery)  
 - [Salesforce Certification Days](https://trailhead.salesforce.com/credentials/cert-days) : Certification preparation program (webinar)   
 
+---
+## AppExchange
+
+- [Salesforce Adoption Dashboards](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000004gHhLEAU)  
+- [Lead and Opportunity Management Dashboards](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016ZLgEAM)  
+- [AppExchange Dashboard Pack for Sales, Marketing and Service](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016ZsfEAE)  
+- [What has changed in the last 7 days dashboard](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003IJBGEA4)  
+
 
