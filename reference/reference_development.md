@@ -80,6 +80,8 @@
   - Multiple Filter 를 Worksheet 에 적용할 때 OR 조건으로 해야 한다면, 조건을 설정하는 Parameter 를 각각 생성하고, 그 Parameter 들을 OR 로 합치는 Calculated Field 를 생성하여 이 Calculation 을 Filter 에 True 로 넣으면, Parameter 선택에 따른 조건을 OR 조건으로 사용할 수 있습니다.
   - Tableau 에서 "Long Text Area" field type 은 Extract 시 4096 character limit 이 있습니다. 그래서 Tableau 에서 나오지 않습니다.
   - Tableau Custom SQL : select Name, Id from Account where Id in (Select SalesPartner__c from Opportunity) 
+- [Create Relative Date Filters](https://help.tableau.com/current/pro/desktop/en-us/qs_relative_dates.htm)  
+- [Filter Data from Your Views](https://help.tableau.com/current/pro/desktop/en-us/filtering.htm#ShowFilter)  
 
 ---
 ### Heroku  
