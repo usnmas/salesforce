@@ -35,6 +35,7 @@
 - [Getting started with Salesforce integration patterns using MuleSoft](https://developer.mulesoft.com/tutorials-and-howtos/quick-start/getting-started-with-salesforce-integration-patterns-using-mulesoft/?utm_source=email&utm_medium=referral&utm_campaign=anypoint-onboarding-nurture&mkt_tok=NTY0LVNaUy0xMzYAAAF8HgHgm8BDPosP49-vPl-Gk8G60ZwYtrQQIC-cWqkbu2TdYNQnX_YoMu2KUD3S6H5Jm9C8XfiF7M5MKCmL6_BuwXxyHvqgSYGFHd7dxwDcSwuev4U) : Migration / Broadcast / Aggregation / Bidirectional synchronization / Correlation - Hands-on examples  
 - [Get Started with Open CTI](https://developer.salesforce.com/docs/atlas.en-us.api_cti.meta/api_cti/sforce_api_cti_intro.htm)  
 - [Ant Migration Tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/meta_development.htm)  
+- [Saving CSV/Excel file as UTF-8 Encoded](https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/)  
 
 ---
 ## Tableau  
