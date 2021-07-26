@@ -41,10 +41,6 @@
 ## Tableau  
 
 - [Tableau Help](https://www.tableau.com/support/help)  
-- [Tableau Server: Communicating with the Internet](https://help.tableau.com/current/server/en-us/plan_network.htm)  
-- [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
-- [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
-- [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
 - [Tableau Prep - Connect to Data](https://help.tableau.com/current/prep/en-us/prep_connect.htm#salesforce_data)  
 - [Extracts / Live Connections / Cloud Data](https://www.tableau.com/about/blog/2016/4/tableau-online-tips-extracts-live-connections-cloud-data-53351)  
 - [Extracts-1: Understanding Data Extracts](https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1)  
@@ -52,6 +48,20 @@
 - [Extracts-3: Tips, Tricks and Best Practices](https://www.tableau.com/tableau-data-extracts-part3)  
 - [Join Your Data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)  
 - [Tableau's Order of Operations](https://help.tableau.com/current/pro/desktop/en-us/order_of_operations.htm)  
+
+### Tableau Server  
+
+- [Tableau Server: Communicating with the Internet](https://help.tableau.com/current/server/en-us/plan_network.htm)  
+- [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
+- [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
+- [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
+- [Add Users to Tableau Server](https://help.tableau.com/current/server/en-us/users_add.htm)  
+- [Add Capacity to Tableau Server](https://help.tableau.com/current/server/en-us/capacity_add.htm)  
+- [Zero Downtime Licensing](https://help.tableau.com/current/server/en-us/license_zero_downtime.htm)  
+- [Add or Delete Sites](https://help.tableau.com/current/server/en-us/sites_delete.htm)  
+- [Manage Site Role Limits](https://help.tableau.com/current/server/en-us/site_role_limit.htm)  
+- [Troubleshoot Licensing](https://help.tableau.com/current/server/en-us/unlicensed.htm)  
+- [Set Users’ Site Roles](https://help.tableau.com/current/server/en-us/users_site_roles.htm)  
 
 ### Salesforce Integration  
 
