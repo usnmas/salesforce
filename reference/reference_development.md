@@ -55,6 +55,9 @@
 - [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
 - [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
 - [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
+
+### Tableau Server User & License  
+
 - [Add Users to Tableau Server](https://help.tableau.com/current/server/en-us/users_add.htm)  
 - [Add Capacity to Tableau Server](https://help.tableau.com/current/server/en-us/capacity_add.htm)  
 - [Zero Downtime Licensing](https://help.tableau.com/current/server/en-us/license_zero_downtime.htm)  
