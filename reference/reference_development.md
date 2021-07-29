@@ -55,6 +55,7 @@
 - [Tableau Server on Windows: Everybody's Install Guide / Connecting to Data Sources](https://help.tableau.com/current/guides/everybody-install/en-us/everybody_admin_data.htm)  
 - [Sign in to Tableau Services Manager Web UI](https://help.tableau.com/current/server/en-us/sign_in_tsm.htm)  
 - [Tableau Server on Windows: Manage Data](https://help.tableau.com/current/server/en-us/manage_data_section.htm)  
+- [Backup and Restore](https://help.tableau.com/current/server/en-us/db.htm)  
 
 ### Tableau Server User & License  
 
