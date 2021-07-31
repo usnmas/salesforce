@@ -99,6 +99,11 @@
 - [Filter Data from Your Views](https://help.tableau.com/current/pro/desktop/en-us/filtering.htm#ShowFilter)  
 - [Analyze Data](https://help.tableau.com/current/pro/desktop/en-us/analyze.htm)    
 
+### Tableau Blueprint  
+
+- [Tableau Blueprint Overview](https://help.tableau.com/current/blueprint/en-us/bp_overview.htm)  
+- [Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)  
+
 ---
 ### Heroku  
 
