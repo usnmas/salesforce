@@ -68,6 +68,7 @@
 - [Set Users’ Site Roles](https://help.tableau.com/current/server/en-us/users_site_roles.htm)  
 - [Set the User Authentication Type for SAML](https://help.tableau.com/current/server/en-us/users_set_auth_type.htm)  
 - [Unable to Change a User's Site Role to A Server Administrator When Site-SAML is Enabled](https://kb.tableau.com/articles/issue/unable-to-change-a-user-s-site-role-to-a-server-administrator-when-site-saml-is-enabled)  
+- [CSV Import File Guidelines](https://help.tableau.com/current/server/en-us/csvguidelines.htm)  
 
 ### Salesforce Integration  
 
