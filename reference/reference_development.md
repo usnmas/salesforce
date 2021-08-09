@@ -100,6 +100,7 @@
   - Tableau Custom SQL : select Name, Id from Account where Id in (Select SalesPartner__c from Opportunity) 
 - [Create Relative Date Filters](https://help.tableau.com/current/pro/desktop/en-us/qs_relative_dates.htm)  
 - [Filter Data from Your Views](https://help.tableau.com/current/pro/desktop/en-us/filtering.htm#ShowFilter)  
+- [Create Sets](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm)  
 - [Analyze Data](https://help.tableau.com/current/pro/desktop/en-us/analyze.htm)    
 
 ### Tableau Blueprint  
