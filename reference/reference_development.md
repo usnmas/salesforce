@@ -86,6 +86,9 @@
 - [How to configure Tableau SAML SSO with Salesforce Identity](https://alexeskinasy.medium.com/how-to-configure-tableau-online-saml-sso-with-salesforce-identity-53bdf0f9b3f2)  
 - [Dashboard Starters for Cloud-based Data](https://help.tableau.com/current/pro/desktop/en-us/starters.htm)  
 - [Download a Starter Dashboard](https://www.tableau.com/products/dashboard-starters-downloads)  
+- [Refresh Extracts](https://help.tableau.com/current/pro/desktop/en-us/extracting_refresh.htm)  
+- [Schedule Extract Refreshes as You Publish a Workbook](https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_schedules.htm)  
+- [Keep Data Fresh](https://help.tableau.com/current/online/en-us/to_keep_data_fresh.htm#refresh-options)  
   
 ### Build Charts and Analyze Data  
 
