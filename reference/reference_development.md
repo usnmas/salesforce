@@ -105,6 +105,7 @@
 - [Filter Data from Your Views](https://help.tableau.com/current/pro/desktop/en-us/filtering.htm#ShowFilter)  
 - [Create Sets](https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm)  
 - [Analyze Data](https://help.tableau.com/current/pro/desktop/en-us/analyze.htm)    
+- [When to Use Filters, Groups & Sets in Tableau](https://interworks.com/blog/kwagner/2014/06/30/when-use-filters-groups-sets-tableau/)  
 
 ### Tableau Blueprint  
 
