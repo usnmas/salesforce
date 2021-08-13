@@ -36,6 +36,7 @@
 - [Get Started with Open CTI](https://developer.salesforce.com/docs/atlas.en-us.api_cti.meta/api_cti/sforce_api_cti_intro.htm)  
 - [Ant Migration Tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/meta_development.htm)  
 - [Saving CSV/Excel file as UTF-8 Encoded](https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/)  
+- [How to check and monitor SSL certificates expiration](https://songrgg.github.io/operation/how-to-check-and-monitor-tls-jks-certificates-with-telegraf/)  
 
 ---
 ## Tableau  
