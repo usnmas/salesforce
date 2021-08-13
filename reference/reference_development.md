@@ -37,6 +37,7 @@
 - [Ant Migration Tool](https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/meta_development.htm)  
 - [Saving CSV/Excel file as UTF-8 Encoded](https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/)  
 - [How to check and monitor SSL certificates expiration](https://songrgg.github.io/operation/how-to-check-and-monitor-tls-jks-certificates-with-telegraf/)  
+- [Connect REST API Quick Start](https://developer.salesforce.com/docs/atlas.en-us.232.0.chatterapi.meta/chatterapi/quickstart.htm)  
 
 ---
 ## Tableau  
