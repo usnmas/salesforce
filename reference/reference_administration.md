@@ -53,6 +53,7 @@
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
 - [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
+- [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)  
 
 ### Call Center
 
