@@ -38,6 +38,8 @@
 - [How to check and monitor SSL certificates expiration](https://songrgg.github.io/operation/how-to-check-and-monitor-tls-jks-certificates-with-telegraf/)  
 - [Connect REST API Quick Start](https://developer.salesforce.com/docs/atlas.en-us.232.0.chatterapi.meta/chatterapi/quickstart.htm)  
 - [OAuth Authorization Flows](https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oauth_flows.htm&type=5)  
+- [Upcoming Certificate Changes](https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000C382XSAR)  
+- [Upcoming Certificate Changes Group Join](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000001oAFCAY?tab=members)  
 
 ---
 ### Heroku  
