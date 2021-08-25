@@ -1,13 +1,7 @@
 # Reference Site for Salesforce Administration    
 
 ---
-## Salesforce.Com  
-
-- [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
-- [Loyalty Management Partner Pocket Guide](https://salesforce.quip.com/0YbGAyhiaUUO)  
-
----
-## Help.Salesforce.Com  
+## Salesforce.Com & Help.Salesforce.Com     
 
 ### Project Initiatives  
 
@@ -27,6 +21,8 @@
 - [Service Cloud Pricing](https://www.salesforce.com/ap/editions-pricing/service-cloud/)  
 - [Field Service Lightning Pricing](https://www.salesforce.com/ap/editions-pricing/service-cloud/field-service/?d=cta-body-promo-99)  
 - [Service Cloud Voice with Amazon Connect](https://www.salesforce.com/ap/editions-pricing/service-cloud/voice/?d=cta-body-promo-339)  
+- [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
+- [Loyalty Management Partner Pocket Guide](https://salesforce.quip.com/0YbGAyhiaUUO)  
 
 ### Limitation
 
