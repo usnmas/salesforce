@@ -45,6 +45,7 @@
 - [Set Your Internal Organization-Wide Sharing Defaults](https://help.salesforce.com/articleView?id=sf.admin_sharing.htm&type=5) : Some objects for which OWD can't be changed 
 - [Sharing Rules](https://help.salesforce.com/articleView?id=sf.security_about_sharing_rules.htm&type=5) : 300 total sharing rules for each object, including up to 50 criteria-based or guest user sharing rules    
 - [What is the difference between Setup and Service Setup](https://trailblazer.salesforce.com/answersHome_1?id=9063A000000lChAQAU)  
+- [Control Who Receives Flow and Process Error Emails](https://help.salesforce.com/s/articleView?id=sf.flow_troubleshoot_error_email.htm&type=5) : Process Automation Settings / Apex Exception Email    
 
 ### Mobile
 
