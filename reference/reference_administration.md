@@ -24,6 +24,10 @@
 - [Sales and Service Cloud Pricing](https://www.salesforce.com/editions-pricing/sales-and-service-cloud/) 
 - [Loyalty Management Partner Pocket Guide](https://salesforce.quip.com/0YbGAyhiaUUO)  
 
+### Demo
+
+- [Salesforce Platform Demos](https://www.platformdemos.com/s/)  
+
 ### Limitation
 
 - [Salesforce Features and Edition Allocations](https://help.salesforce.com/articleView?id=overview_limits_general.htm&type=0)   
