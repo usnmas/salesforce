@@ -48,6 +48,7 @@
 - [Create a Connected App](https://help.salesforce.com/s/articleView?id=sf.connected_app_create.htm&type=5)  
   - [Enable OAuth Settings for API Integration](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_api_integration.htm&type=5)  
   - [Integrate Service Providers as Connected Apps with SAML 2.0](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_saml_sso.htm&type=5) : Tableau Server Connection    
+  - [Generate an Initial Access Token](https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oidc_initial_access_token.htm&type=5)  
 
 ---
 ### Heroku  
