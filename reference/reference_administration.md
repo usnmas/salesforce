@@ -64,6 +64,11 @@
 - [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
 - [Salesforce Call Center](https://help.salesforce.com/articleView?id=sf.cti_overview.htm&type=5)  
 
+### Chatter / Posting
+
+- [Chatter Settings](https://help.salesforce.com/s/articleView?id=sf.collab_enable.htm&type=5)  
+- [Post Visibility](https://help.salesforce.com/s/articleView?id=sf.collab_post_visibility.htm&type=5)  
+
 ### Compliance / Security / Certification  
 
 - [Compliance engineered for the Cloud](https://compliance.salesforce.com/en/documents)  
