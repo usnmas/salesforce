@@ -54,10 +54,16 @@
 ### Mobile
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
-- [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
 - [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)  
 - [Salesforce Lightning Design System (LDS) Icons](https://www.lightningdesignsystem.com/icons/)  
 - [Iconography design guideline](https://www.lightningdesignsystem.com/guidelines/iconography/)  
+
+### QR Code
+
+- [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
+- [Google Chart API QR Code](https://ojava.tistory.com/105)  
+- [Making the text field value to appear as link to record in salesforce standard reports](https://developer.salesforce.com/forums/?id=906F00000008n4tIAA)  
+- [Get Field Values from a Standard Object Record](https://developer.salesforce.com/docs/atlas.en-us.232.0.api_rest.meta/api_rest/dome_get_field_values.htm) :   
 
 ### Call Center
 
