@@ -49,7 +49,7 @@
   - [Enable OAuth Settings for API Integration](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_api_integration.htm&type=5)  
   - [Integrate Service Providers as Connected Apps with SAML 2.0](https://help.salesforce.com/s/articleView?id=sf.connected_app_create_saml_sso.htm&type=5) : Tableau Server Connection    
   - [Generate an Initial Access Token](https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oidc_initial_access_token.htm&type=5)  
-- [[Forum] Self Signed Certificate Expires?](https://developer.salesforce.com/forums/?id=9060G000000BghEQAS) : Self Signed Certificate Replace & IdP 
+- [[Forum] Self Signed Certificate Expires](https://developer.salesforce.com/forums/?id=9060G000000BghEQAS) : Self Signed Certificate Replace & IdP 
 
 ---
 ### Heroku  
