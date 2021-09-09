@@ -61,6 +61,7 @@
 ### QR Code
 
 - [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
+- [Scan Barcodes on a Mobile Device (Beta)](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_barcodescanner)  
 - [Google Chart API QR Code](https://ojava.tistory.com/105)  
 - [Making the text field value to appear as link to record in salesforce standard reports](https://developer.salesforce.com/forums/?id=906F00000008n4tIAA)  
 - [Get Field Values from a Standard Object Record](https://developer.salesforce.com/docs/atlas.en-us.232.0.api_rest.meta/api_rest/dome_get_field_values.htm) : REST API Developer Guide     
