@@ -13,6 +13,11 @@
 - [Mobile Publisher](https://dreamevent.secure.force.com/articleView?id=sf.s1_branded_apps.htm&type=5)  
 - [Object Reference for Salesforce and Lightning Platform](https://developer.salesforce.com/docs/atlas.en-us.224.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)  
 
+### Samples & References  
+
+- [Components Reference](https://developer.salesforce.com/docs/component-library/overview/components)  
+- [Code Samples and SDKs](https://developer.salesforce.com/code-samples-and-sdks)  
+
 ### Others  
 
 - [Triggers and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)  
