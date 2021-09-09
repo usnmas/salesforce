@@ -56,7 +56,7 @@
   - [Generate an Initial Access Token](https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oidc_initial_access_token.htm&type=5)  
 - [Generate a Certificate Signed by a Certificate Authority](https://help.salesforce.com/s/articleView?id=sf.security_keys_uploading_signed_cert.htm&type=5)  
 - [[Forum] Self Signed Certificate Expires](https://developer.salesforce.com/forums/?id=9060G000000BghEQAS) : Self Signed Certificate Replace & IdP 
-- [Do I need to convert .CER to .CRT](https://stackoverflow.com/questions/642284/do-i-need-to-convert-cer-to-crt-for-apache-ssl-certificates-if-so-how)  
+- [Do I need to convert .CER to .CRT](https://stackoverflow.com/questions/642284/do-i-need-to-convert-cer-to-crt-for-apache-ssl-certificates-if-so-how) : vs CSR (certificate signing request)    
 - [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html)  
 
 ---
