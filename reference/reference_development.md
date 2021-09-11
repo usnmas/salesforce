@@ -62,6 +62,11 @@
 - [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html)  
 
 ---
+### Experience Cloud Theme
+
+- [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
+
+---
 ### Heroku  
 
 - [Add Heroku dynos to IP allowlist ](https://help.heroku.com/JS13Y78I/i-need-to-add-heroku-dynos-to-our-allowlist-what-are-ip-address-ranges-in-use-at-heroku)  
