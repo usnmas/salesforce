@@ -17,6 +17,9 @@
 
 - [Components Reference](https://developer.salesforce.com/docs/component-library/overview/components)  
 - [Code Samples and SDKs](https://developer.salesforce.com/code-samples-and-sdks)  
+  - [Apex-Recipes](https://github.com/trailheadapps/apex-recipes#installing-the-app-using-an-unlocked-package)  
+    - [Quick Start: Explore the Apex Recipes Sample App](https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-apex-recipes-sample-app)  
+    - [Quick Start: Tour the Sample App Gallery](https://trailhead.salesforce.com/content/learn/projects/quick-start-tour-the-sample-app-gallery)  
 
 ### Others  
 
