@@ -51,32 +51,6 @@
 - [What is the difference between Setup and Service Setup](https://trailblazer.salesforce.com/answersHome_1?id=9063A000000lChAQAU)  
 - [Control Who Receives Flow and Process Error Emails](https://help.salesforce.com/s/articleView?id=sf.flow_troubleshoot_error_email.htm&type=5) : Process Automation Settings / Apex Exception Email    
 
-### Mobile
-
-- [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
-- [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)  
-- [Salesforce Lightning Design System (LDS) Icons](https://www.lightningdesignsystem.com/icons/)  
-- [Iconography design guideline](https://www.lightningdesignsystem.com/guidelines/iconography/)  
-
-### QR Code
-
-- [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
-- [Scan Barcodes on a Mobile Device (Beta)](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_barcodescanner)  
-- [Google Chart API QR Code](https://ojava.tistory.com/105)  
-- [Making the text field value to appear as link to record in salesforce standard reports](https://developer.salesforce.com/forums/?id=906F00000008n4tIAA)  
-- [Get Field Values from a Standard Object Record](https://developer.salesforce.com/docs/atlas.en-us.232.0.api_rest.meta/api_rest/dome_get_field_values.htm) : REST API Developer Guide     
-
-### Experience Cloud
-
-- [Set Up and Manage Experience Cloud Sites](https://help.salesforce.com/s/articleView?id=sf.networks_overview.htm&type=5)  
-  - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
-
-
-### Call Center
-
-- [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
-- [Salesforce Call Center](https://help.salesforce.com/articleView?id=sf.cti_overview.htm&type=5)  
-
 ### Chatter / Posting
 
 - [Chatter Settings](https://help.salesforce.com/s/articleView?id=sf.collab_enable.htm&type=5)  
@@ -91,6 +65,37 @@
 - [Mobile Application Management (MAM) with Enhanced Mobile App Security](https://help.salesforce.com/articleView?id=sf.mobile_security_mam_overview.htm&type=5)  
 - [Introducing Enhanced Mobile Security And Compliance For Regulated Industries](https://www.salesforce.com/video/7826679/)  
 - [Mobile Application Security](https://help.salesforce.com/articleView?id=sf.mobile_security.htm&type=5)  
+
+---
+## Mobile
+
+- [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
+- [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)  
+- [Salesforce Lightning Design System (LDS) Icons](https://www.lightningdesignsystem.com/icons/)  
+- [Iconography design guideline](https://www.lightningdesignsystem.com/guidelines/iconography/)  
+
+### QR Code
+
+- [Use Your Mobile Device Camera to Scan Barcodes (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_mobile_publisher_barcode.htm&release=228&type=5&sfdcIFrameOrigin=null)  
+- [Scan Barcodes on a Mobile Device (Beta)](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_barcodescanner)  
+- [Google Chart API QR Code](https://ojava.tistory.com/105)  
+- [Making the text field value to appear as link to record in salesforce standard reports](https://developer.salesforce.com/forums/?id=906F00000008n4tIAA)  
+- [Get Field Values from a Standard Object Record](https://developer.salesforce.com/docs/atlas.en-us.232.0.api_rest.meta/api_rest/dome_get_field_values.htm) : REST API Developer Guide     
+
+---
+## Experience Cloud
+
+- [Set Up and Manage Experience Cloud Sites](https://help.salesforce.com/s/articleView?id=sf.networks_overview.htm&type=5)  
+  - [Experience Builder Overview](https://help.salesforce.com/s/articleView?id=sf.community_designer_overview.htm&type=5)  
+  - [Access Experience Cloud Sites in the Salesforce Mobile App](https://help.salesforce.com/s/articleView?id=sf.networks_access_in_salesforce1.htm&type=5) : Experience Builder sites aren't supported in the Salesforce mobile app
+  - [Supported Browsers for Experience Cloud Sites](https://help.salesforce.com/s/articleView?id=sf.networks_communities_browser_support.htm&type=5)  
+  - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
+
+---
+## Call Center
+
+- [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
+- [Salesforce Call Center](https://help.salesforce.com/articleView?id=sf.cti_overview.htm&type=5)  
 
 ---
 ## Trailhead
