@@ -69,7 +69,7 @@
 ### Experience Cloud
 
 - [Set Up and Manage Experience Cloud Sites](https://help.salesforce.com/s/articleView?id=sf.networks_overview.htm&type=5)  
- - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
+  - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
 
 
 ### Call Center
