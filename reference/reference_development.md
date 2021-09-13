@@ -20,6 +20,8 @@
   - [Apex-Recipes](https://github.com/trailheadapps/apex-recipes#installing-the-app-using-an-unlocked-package)  
     - [Quick Start: Explore the Apex Recipes Sample App](https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-apex-recipes-sample-app)  
     - [Quick Start: Tour the Sample App Gallery](https://trailhead.salesforce.com/content/learn/projects/quick-start-tour-the-sample-app-gallery)  
+- [Design Iconography](https://www.lightningdesignsystem.com/guidelines/iconography/)  
+- [App Launcher Logos & Icons](https://yuptest-dev-ed.my.salesforce.com/logos/?) : Dev. Org. App Manager > New Connected App > Logo Image URL  
 
 ### Others  
 
