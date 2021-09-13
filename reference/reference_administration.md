@@ -66,6 +66,12 @@
 - [Making the text field value to appear as link to record in salesforce standard reports](https://developer.salesforce.com/forums/?id=906F00000008n4tIAA)  
 - [Get Field Values from a Standard Object Record](https://developer.salesforce.com/docs/atlas.en-us.232.0.api_rest.meta/api_rest/dome_get_field_values.htm) : REST API Developer Guide     
 
+### Experience Cloud
+
+- [Set Up and Manage Experience Cloud Sites](https://help.salesforce.com/s/articleView?id=sf.networks_overview.htm&type=5)  
+  - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
+
+
 ### Call Center
 
 - [Salesforce Open CTI](https://help.salesforce.com/articleView?id=sf.cloud_cti_api_overview.htm&type=5)  
