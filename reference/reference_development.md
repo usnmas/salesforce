@@ -65,7 +65,7 @@
 - [Certificate Decoder](https://www.sslshopper.com/certificate-decoder.html)  
 
 ---
-### Experience Cloud Theme
+### Experience Cloud
 
 - [Customize the Theme of Your Experience Builder Site](https://help.salesforce.com/s/articleView?id=sf.community_builder_theme_customize.htm&type=5)   
 
