@@ -55,6 +55,10 @@
 
 - [Chatter Settings](https://help.salesforce.com/s/articleView?id=sf.collab_enable.htm&type=5)  
 - [Post Visibility](https://help.salesforce.com/s/articleView?id=sf.collab_post_visibility.htm&type=5)  
+- [Troubleshoot Salesforce Mobile App Notifications](https://help.salesforce.com/s/articleView?id=000333137&type=1)  
+- [Post an Announcement to a Chatter Group](https://help.salesforce.com/s/articleView?id=sf.collab_group_announcement.htm&type=5)  
+- [Broadcast Groups](https://help.salesforce.com/s/articleView?id=sf.collab_groups_broadcast_about.htm&type=5)  
+- [Salesforce Mobile App Notification Types](https://help.salesforce.com/s/articleView?id=sf.salesforce_app_enable_push_notifications.htm&type=5)  
 
 ### Compliance / Security / Certification  
 
