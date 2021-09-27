@@ -1,6 +1,5 @@
 # Reference Site for Mobile Development   
 
----
 ## Salesforce Mobile       
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
