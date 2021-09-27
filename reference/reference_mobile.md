@@ -7,3 +7,7 @@
 - [Salesforce Lightning Design System (LDS) Icons](https://www.lightningdesignsystem.com/icons/)  
 - [Iconography design guideline](https://www.lightningdesignsystem.com/guidelines/iconography/)  
 
+## Apple  
+
+- [Apple Support Xcode](https://developer.apple.com/support/xcode/) : Minimum requirements and supported SDKs    
+
