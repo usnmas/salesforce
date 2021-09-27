@@ -10,4 +10,4 @@
 ## Apple  
 
 - [Apple Support Xcode](https://developer.apple.com/support/xcode/) : Minimum requirements and supported SDKs    
-
+- [Cocoapods Install Troubleshoot](https://stackoverflow.com/questions/53135863/macos-mojave-ruby-config-h-file-not-found) : Refer to "On macOS Catalina"    
