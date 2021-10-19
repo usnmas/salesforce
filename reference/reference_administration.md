@@ -10,6 +10,7 @@
 - [Reference Architecture for Retail](https://help.salesforce.com/articleView?id=sf.icx_b2c_reference_architecture.htm&type=5)  
 - [Solution Architecture for Retail](https://help.salesforce.com/articleView?id=sf.icx_b2c_solution_architecture_overview.htm&type=5)  
 - [Sandbox](https://help.salesforce.com/articleView?id=create_test_instance.htm&type=5)  
+- [Match production and sandbox licenses without a sandbox refresh](https://help.salesforce.com/s/articleView?id=000335272&type=1)  
 - [Hello Experience Cloud, Farewell Community Cloud](https://help.salesforce.com/articleView?id=release-notes.rn_experiences_rebrand.htm&type=5&release=230) : "site" instead of "community"  
 - [Salesforce for Outlook Retirement](https://help.salesforce.com/articleView?id=000353024&type=1&mode=1) : June 2023 / Side panel action stops in June 2021  
 
